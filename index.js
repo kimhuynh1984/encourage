@@ -1,0 +1,1 @@
+console.log ('Go go powerranger!!! mighty morfhen power ranger, u can do it. Believe in your self!!! Have confidence!!')
